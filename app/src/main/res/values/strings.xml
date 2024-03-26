@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="title">Список задач</string>
+    <string name="descriptionTitle">Описание</string>
+</resources>
